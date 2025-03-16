@@ -6,7 +6,7 @@
   "types": "./dist/index.d.ts",
   "scripts": {
     "build": "bunchee",
-    "release": "chageset publish"
+    "release": "changeset publish"
   },
   "exports": {
     ".": {
